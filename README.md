@@ -2,7 +2,7 @@
  
 > **Part of an article series on Multithreading in .NET**
 > 
-> 📝 [Read Part 1 on Medium]([https://medium.com/@kroshpan/multithreading-in-net-part-1-why-synchronization-exists-and-why-your-code-breaks-without-it-19d268456d07]) &nbsp;|&nbsp; 📝 [Read Part 2 on Medium](https://medium.com/@kroshpan/multithreading-in-net-part-2-the-synchronization-primitives-every-net-developer-should-know-ba4c508d958b) &nbsp;|&nbsp; 📝 Part 3 — Coming Soon
+> 📝 [Read Part 1 on Medium](https://medium.com/@kroshpan/multithreading-in-net-part-1-why-synchronization-exists-and-why-your-code-breaks-without-it-19d268456d07) &nbsp;|&nbsp; 📝 [Read Part 2 on Medium](https://medium.com/@kroshpan/multithreading-in-net-part-2-the-synchronization-primitives-every-net-developer-should-know-ba4c508d958b) &nbsp;|&nbsp; 📝 Part 3 — Coming Soon
  
 ---
 
