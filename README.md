@@ -2,7 +2,7 @@
  
 > **Part of an article series on Multithreading in .NET**
 > 
-> 📝 [Read Part 1 on Medium](#) &nbsp;|&nbsp; 📝 [Read Part 2 on Medium](#) &nbsp;|&nbsp; 📝 Part 3 — Coming Soon
+> 📝 [Read Part 1 on Medium]([#](https://medium.com/@kroshpan/multithreading-in-net-part-1-why-synchronization-exists-and-why-your-code-breaks-without-it-19d268456d07)) &nbsp;|&nbsp; 📝 [Read Part 2 on Medium](https://medium.com/@kroshpan/multithreading-in-net-part-2-the-synchronization-primitives-every-net-developer-should-know-ba4c508d958b) &nbsp;|&nbsp; 📝 Part 3 — Coming Soon
  
 ---
 
@@ -48,8 +48,8 @@ git clone https://github.com//beastkp/Multithreading_Dotnet.git
 1. Open Visual Studio
 2. Click **File → Open → Project/Solution**
 3. Navigate to the project folder you want to run (e.g. `Locks`)
-4. Open the `.csproj` file
-5. Hit **F5** to run
+4. For Mutex configure the Startup as both Mutex1 and Mutex2 (better understanding)
+6. Hit **F5** to run
 
 ---
 
