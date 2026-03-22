@@ -1,0 +1,4 @@
+C:\LEARNING\Consolepractice\Consolepractice\obj\Debug\net8.0\Consolepractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\LEARNING\Consolepractice\Consolepractice\obj\Debug\net8.0\Consolepractice.AssemblyInfoInputs.cache
+C:\LEARNING\Consolepractice\Consolepractice\obj\Debug\net8.0\Consolepractice.AssemblyInfo.cs
+C:\LEARNING\Consolepractice\Consolepractice\obj\Debug\net8.0\Consolepractice.csproj.CoreCompileInputs.cache

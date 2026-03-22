@@ -1,0 +1,14 @@
+C:\LEARNING\Consolepractice\AutoResetEvent\bin\Debug\net8.0\AutoResetEvent.exe
+C:\LEARNING\Consolepractice\AutoResetEvent\bin\Debug\net8.0\AutoResetEvent.deps.json
+C:\LEARNING\Consolepractice\AutoResetEvent\bin\Debug\net8.0\AutoResetEvent.runtimeconfig.json
+C:\LEARNING\Consolepractice\AutoResetEvent\bin\Debug\net8.0\AutoResetEvent.dll
+C:\LEARNING\Consolepractice\AutoResetEvent\bin\Debug\net8.0\AutoResetEvent.pdb
+C:\LEARNING\Consolepractice\AutoResetEvent\obj\Debug\net8.0\AutoResetEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\LEARNING\Consolepractice\AutoResetEvent\obj\Debug\net8.0\AutoResetEvent.AssemblyInfoInputs.cache
+C:\LEARNING\Consolepractice\AutoResetEvent\obj\Debug\net8.0\AutoResetEvent.AssemblyInfo.cs
+C:\LEARNING\Consolepractice\AutoResetEvent\obj\Debug\net8.0\AutoResetEvent.csproj.CoreCompileInputs.cache
+C:\LEARNING\Consolepractice\AutoResetEvent\obj\Debug\net8.0\AutoResetEvent.dll
+C:\LEARNING\Consolepractice\AutoResetEvent\obj\Debug\net8.0\refint\AutoResetEvent.dll
+C:\LEARNING\Consolepractice\AutoResetEvent\obj\Debug\net8.0\AutoResetEvent.pdb
+C:\LEARNING\Consolepractice\AutoResetEvent\obj\Debug\net8.0\AutoResetEvent.genruntimeconfig.cache
+C:\LEARNING\Consolepractice\AutoResetEvent\obj\Debug\net8.0\ref\AutoResetEvent.dll

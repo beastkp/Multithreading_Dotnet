@@ -1,0 +1,14 @@
+C:\LEARNING\Consolepractice\Consolepractice\bin\Debug\net8.0\Locks.exe
+C:\LEARNING\Consolepractice\Consolepractice\bin\Debug\net8.0\Locks.deps.json
+C:\LEARNING\Consolepractice\Consolepractice\bin\Debug\net8.0\Locks.runtimeconfig.json
+C:\LEARNING\Consolepractice\Consolepractice\bin\Debug\net8.0\Locks.dll
+C:\LEARNING\Consolepractice\Consolepractice\bin\Debug\net8.0\Locks.pdb
+C:\LEARNING\Consolepractice\Consolepractice\obj\Debug\net8.0\Locks.GeneratedMSBuildEditorConfig.editorconfig
+C:\LEARNING\Consolepractice\Consolepractice\obj\Debug\net8.0\Locks.AssemblyInfoInputs.cache
+C:\LEARNING\Consolepractice\Consolepractice\obj\Debug\net8.0\Locks.AssemblyInfo.cs
+C:\LEARNING\Consolepractice\Consolepractice\obj\Debug\net8.0\Locks.csproj.CoreCompileInputs.cache
+C:\LEARNING\Consolepractice\Consolepractice\obj\Debug\net8.0\Locks.dll
+C:\LEARNING\Consolepractice\Consolepractice\obj\Debug\net8.0\refint\Locks.dll
+C:\LEARNING\Consolepractice\Consolepractice\obj\Debug\net8.0\Locks.pdb
+C:\LEARNING\Consolepractice\Consolepractice\obj\Debug\net8.0\Locks.genruntimeconfig.cache
+C:\LEARNING\Consolepractice\Consolepractice\obj\Debug\net8.0\ref\Locks.dll

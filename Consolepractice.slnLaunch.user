@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Mutex\\MutexP1.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MutexP2\\MutexP2.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

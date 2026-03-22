@@ -1,0 +1,14 @@
+C:\LEARNING\Consolepractice\MutexP2\bin\Debug\net8.0\MutexP2.exe
+C:\LEARNING\Consolepractice\MutexP2\bin\Debug\net8.0\MutexP2.deps.json
+C:\LEARNING\Consolepractice\MutexP2\bin\Debug\net8.0\MutexP2.runtimeconfig.json
+C:\LEARNING\Consolepractice\MutexP2\bin\Debug\net8.0\MutexP2.dll
+C:\LEARNING\Consolepractice\MutexP2\bin\Debug\net8.0\MutexP2.pdb
+C:\LEARNING\Consolepractice\MutexP2\obj\Debug\net8.0\MutexP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\LEARNING\Consolepractice\MutexP2\obj\Debug\net8.0\MutexP2.AssemblyInfoInputs.cache
+C:\LEARNING\Consolepractice\MutexP2\obj\Debug\net8.0\MutexP2.AssemblyInfo.cs
+C:\LEARNING\Consolepractice\MutexP2\obj\Debug\net8.0\MutexP2.csproj.CoreCompileInputs.cache
+C:\LEARNING\Consolepractice\MutexP2\obj\Debug\net8.0\MutexP2.dll
+C:\LEARNING\Consolepractice\MutexP2\obj\Debug\net8.0\refint\MutexP2.dll
+C:\LEARNING\Consolepractice\MutexP2\obj\Debug\net8.0\MutexP2.pdb
+C:\LEARNING\Consolepractice\MutexP2\obj\Debug\net8.0\MutexP2.genruntimeconfig.cache
+C:\LEARNING\Consolepractice\MutexP2\obj\Debug\net8.0\ref\MutexP2.dll
