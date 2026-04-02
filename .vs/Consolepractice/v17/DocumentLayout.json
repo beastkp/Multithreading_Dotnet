@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\LEARNING\\Consolepractice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A647DC17-EFF9-49B0-B9B5-85083C87FD5D}|CountDownEvent\\CountDownEvent.csproj|c:\\learning\\consolepractice\\countdownevent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A647DC17-EFF9-49B0-B9B5-85083C87FD5D}|CountDownEvent\\CountDownEvent.csproj|solutionrelative:countdownevent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{408AF192-7634-42BE-932F-182CD3A751D0}|Barrier\\Barrier.csproj|c:\\learning\\consolepractice\\barrier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{408AF192-7634-42BE-932F-182CD3A751D0}|Barrier\\Barrier.csproj|solutionrelative:barrier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{66B2D2BB-5909-43C4-B771-57C14646CF98}|ManualResetEvent\\ManualResetEvent.csproj|c:\\learning\\consolepractice\\manualresetevent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66B2D2BB-5909-43C4-B771-57C14646CF98}|ManualResetEvent\\ManualResetEvent.csproj|solutionrelative:manualresetevent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -76,18 +84,44 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LEARNING\\Consolepractice\\CountDownEvent\\Program.cs",
+              "RelativeDocumentMoniker": "CountDownEvent\\Program.cs",
+              "ToolTip": "C:\\LEARNING\\Consolepractice\\CountDownEvent\\Program.cs*",
+              "RelativeToolTip": "CountDownEvent\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T10:17:32.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LEARNING\\Consolepractice\\Barrier\\Program.cs",
+              "RelativeDocumentMoniker": "Barrier\\Program.cs",
+              "ToolTip": "C:\\LEARNING\\Consolepractice\\Barrier\\Program.cs",
+              "RelativeToolTip": "Barrier\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T09:49:35.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\LEARNING\\Consolepractice\\ManualResetEvent\\Program.cs",
               "RelativeDocumentMoniker": "ManualResetEvent\\Program.cs",
               "ToolTip": "C:\\LEARNING\\Consolepractice\\ManualResetEvent\\Program.cs",
               "RelativeToolTip": "ManualResetEvent\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-22T14:35:45.623Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LEARNING\\Consolepractice\\AutoResetEvent\\Program.cs",
               "RelativeDocumentMoniker": "AutoResetEvent\\Program.cs",
@@ -95,12 +129,11 @@
               "RelativeToolTip": "AutoResetEvent\\Program.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAqwCMAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-21T12:14:07.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-21T12:14:07.277Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LEARNING\\Consolepractice\\ReaderWriterLock\\Program.cs",
               "RelativeDocumentMoniker": "ReaderWriterLock\\Program.cs",
@@ -112,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LEARNING\\Consolepractice\\Semaphores\\Program.cs",
               "RelativeDocumentMoniker": "Semaphores\\Program.cs",
@@ -124,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LEARNING\\Consolepractice\\MutexP2\\Program.cs",
               "RelativeDocumentMoniker": "MutexP2\\Program.cs",
